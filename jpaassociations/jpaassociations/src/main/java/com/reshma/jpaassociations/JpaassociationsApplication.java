@@ -1,0 +1,13 @@
+package com.reshma.jpaassociations;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class JpaassociationsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(JpaassociationsApplication.class, args);
+	}
+
+}
